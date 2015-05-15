@@ -1,0 +1,14 @@
+C:\Users\Web App Develop .Net\Desktop\7.5.2015\ProductInfoDemoApp\ProductInfoDemoApp\bin\Debug\ProductInfoDemoApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\7.5.2015\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\7.5.2015\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.ProductInfoUI.resources
+C:\Users\Web App Develop .Net\Desktop\7.5.2015\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\7.5.2015\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.csproj.GenerateResource.Cache
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\bin\Debug\ProductInfoDemoApp.exe.config
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.csprojResolveAssemblyReference.cache
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.ProductInfoUI.resources
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.Properties.Resources.resources
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.csproj.GenerateResource.Cache
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\bin\Debug\ProductInfoDemoApp.exe
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\bin\Debug\ProductInfoDemoApp.pdb
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.exe
+G:\SEIP\LabProblem\ProductInfoDemoApp\ProductInfoDemoApp\obj\Debug\ProductInfoDemoApp.pdb
